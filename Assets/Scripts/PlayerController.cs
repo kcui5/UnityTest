@@ -7,8 +7,12 @@ public class PlayerController : MonoBehaviour {
     public float speed;
     public Text countText;
     public Text winText;
+<<<<<<< HEAD
     public string gitTestString;
 
+=======
+    public string gitTest;
+>>>>>>> master
     private Rigidbody rb;
     private int count;
 
